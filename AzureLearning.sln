@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLearning", "AzureLearning\AzureLearning.csproj", "{8BED7831-DB1F-4225-8BCE-5A6826E6684C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{843AA8E7-7EEC-4E35-9BE5-EAAA69C9D5A2}"
+	ProjectSection(SolutionItems) = preProject
+		.filenesting.json = .filenesting.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLearningAngular", "AzureLearningAngular\AzureLearningAngular.csproj", "{F2FB02BA-A2F7-44F8-8D47-86F7C224EB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BED7831-DB1F-4225-8BCE-5A6826E6684C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BED7831-DB1F-4225-8BCE-5A6826E6684C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BED7831-DB1F-4225-8BCE-5A6826E6684C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BED7831-DB1F-4225-8BCE-5A6826E6684C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FB02BA-A2F7-44F8-8D47-86F7C224EB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FB02BA-A2F7-44F8-8D47-86F7C224EB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FB02BA-A2F7-44F8-8D47-86F7C224EB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FB02BA-A2F7-44F8-8D47-86F7C224EB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FF8339-1312-4B4F-8E5A-6FA8563C5CFF}
+	EndGlobalSection
+EndGlobal
